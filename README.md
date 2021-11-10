@@ -8,4 +8,4 @@ Facebook CRACKING
     $ git clone https://github.com/arimaulanafirmansyah/CRACK
     $ cd CR4CK
     $ gem install user_agent_parser
-    $ ruby main.rb
+    $ ruby crack.rb
