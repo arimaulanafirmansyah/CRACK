@@ -6,6 +6,6 @@ Facebook CRACKING
     $ pkg install git
     $ pkg install ruby
     $ git clone https://github.com/arimaulanafirmansyah/CRACK
-    $ cd CR4CK
+    $ cd CRACK
     $ gem install user_agent_parser
-    $ ruby crack.rb
+    $ ruby main.rb
